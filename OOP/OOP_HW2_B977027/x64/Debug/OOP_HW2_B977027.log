@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Ao.D\source\repos\OOP_HW2_B977027\OOP_HW2_B977027\Player.h(14,1): error C2593: 'operator +'이(가) 모호합니다.
+C:\Users\Ao.D\source\repos\OOP_HW2_B977027\OOP_HW2_B977027\Utils.h(18,7): message : 'Position Position::operator +(const Position &) const'일 수 있습니다.
+C:\Users\Ao.D\source\repos\OOP_HW2_B977027\OOP_HW2_B977027\Utils.h(16,14): message : 또는       'auto operator +(const Position &,const Position &)'[인수 종속성을 조회하여 발견]
+C:\Users\Ao.D\source\repos\OOP_HW2_B977027\OOP_HW2_B977027\Player.h(14,1): message : 인수 목록 '(Position, Position)'을(를) 일치시키는 동안
